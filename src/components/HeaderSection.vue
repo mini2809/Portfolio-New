@@ -7,7 +7,7 @@
                 </a>
 
             </div>
-            <div class="flex justify-between gap-8">
+            <div class="justify-between gap-8 hidden lg:flex">
                 <div
                     class="flex lg:gap-8 gap-4 cursor-pointer items-center font-light text-sm lg:text-base sm:text-sm font-sans text-white">
                     <a href="/">
