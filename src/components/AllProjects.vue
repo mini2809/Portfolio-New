@@ -16,7 +16,7 @@
             </div>
 
         </div>
-        <div class="flex md:w-[60%] sm:w-[70%] w-[50%]">
+        <div class="flex md:w-[50%] sm:w-[70%] w-[50%]">
             <img src="/img/mobileMacYT.png" alt="" >
         </div>
     </div>
